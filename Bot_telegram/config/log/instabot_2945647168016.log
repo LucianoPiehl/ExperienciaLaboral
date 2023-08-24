@@ -1,0 +1,70 @@
+2023-02-13 05:45:25,924 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-02-13 05:45:25,925 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\54225_5\Desktop\Bot_telegram\env\Lib\site-packages\instabot\bot\bot.py
+2023-02-13 05:45:25,927 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-02-13 05:45:26,239 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-02-13 05:45:26,577 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-02-13 05:45:26,959 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-02-13 05:45:27,208 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-02-13 05:45:27,733 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-02-13 05:45:27,733 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"The username you entered doesn\'t appear to belong to an account. Please check your username and try again.","status":"fail","error_title":"Incorrect username","buttons":[{"title":"Try Again","action":"dismiss"}],"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"invalid_user"}'
+2023-02-13 05:45:27,733 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-02-13 05:45:27,733 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The username you entered doesn't appear to belong to an account. Please check your username and try again.
+2023-02-13 05:45:27,734 - instabot version: 0.117.0 (api) - INFO - Error type: invalid_user
+2023-02-13 05:45:27,734 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2023-02-13 05:45:27,734 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2023-02-13 05:46:37,910 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-02-13 05:46:37,910 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\54225_5\Desktop\Bot_telegram\env\Lib\site-packages\instabot\bot\bot.py
+2023-02-13 05:46:37,911 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-02-13 05:46:38,173 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-02-13 05:46:38,447 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-02-13 05:46:38,729 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-02-13 05:46:39,009 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-02-13 05:46:40,680 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-02-13 05:46:40,680 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"The password you entered is incorrect. Please try again.","status":"fail","error_title":"Incorrect password","buttons":[{"title":"OK","action":"dismiss"}],"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"bad_password"}'
+2023-02-13 05:46:40,680 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-02-13 05:46:40,680 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The password you entered is incorrect. Please try again.
+2023-02-13 05:46:40,680 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2023-02-13 05:46:40,681 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2023-02-13 05:46:40,681 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2023-02-13 05:47:06,883 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-02-13 05:47:06,884 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\54225_5\Desktop\Bot_telegram\env\Lib\site-packages\instabot\bot\bot.py
+2023-02-13 05:47:06,884 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-02-13 05:47:07,131 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-02-13 05:47:07,558 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-02-13 05:47:07,919 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-02-13 05:47:08,168 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-02-13 05:47:08,574 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-02-13 05:47:08,574 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"The username you entered doesn\'t appear to belong to an account. Please check your username and try again.","status":"fail","error_title":"Incorrect username","buttons":[{"title":"Try Again","action":"dismiss"}],"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"invalid_user"}'
+2023-02-13 05:47:08,574 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-02-13 05:47:08,574 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The username you entered doesn't appear to belong to an account. Please check your username and try again.
+2023-02-13 05:47:08,575 - instabot version: 0.117.0 (api) - INFO - Error type: invalid_user
+2023-02-13 05:47:08,575 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2023-02-13 05:47:08,575 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2023-02-13 05:48:18,444 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-02-13 05:48:18,445 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\54225_5\Desktop\Bot_telegram\env\Lib\site-packages\instabot\bot\bot.py
+2023-02-13 05:48:18,445 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-02-13 05:48:18,709 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-02-13 05:48:18,999 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-02-13 05:48:19,259 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-02-13 05:48:19,517 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-02-13 05:48:24,487 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-02-13 05:48:24,487 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXEHHoDatojeefB4vZeYg962afTgjIk_rsYVezmlbGMkEuGiU5ANxX4mi8ZtYoq9aqlJl2M/AfwFQrhcARtHIEgxtuvUy1uXGzqLSLPkRNe-3HsG_Y3Yi7jEi2xM3SdRMuOwdHdPN-mKLOxO5wMmcw/","api_path":"/challenge/AXEHHoDatojeefB4vZeYg962afTgjIk_rsYVezmlbGMkEuGiU5ANxX4mi8ZtYoq9aqlJl2M/AfwFQrhcARtHIEgxtuvUy1uXGzqLSLPkRNe-3HsG_Y3Yi7jEi2xM3SdRMuOwdHdPN-mKLOxO5wMmcw/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2023-02-13 05:48:24,488 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-02-13 05:48:24,488 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2023-02-13 05:48:24,488 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2023-02-13 05:48:25,573 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2023-02-13 05:48:25,574 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\Users\54225_5\Desktop\Bot_telegram\media\photo_83_1676278097.jpg' is not uploaded.
+2023-02-13 05:56:17,423 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-02-13 05:56:17,424 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\54225_5\Desktop\Bot_telegram\env\Lib\site-packages\instabot\bot\bot.py
+2023-02-13 05:56:17,425 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-02-13 05:56:17,709 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-02-13 05:56:17,998 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-02-13 05:56:18,258 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-02-13 05:56:18,509 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-02-13 05:56:21,340 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-02-13 05:56:21,340 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXEeGnh1YSYaSc4_OKGoKSSoIa2T0GzL0Ug5MZDsGM_pkHMntbtZ0xOV-G2dggQAM4vM_2E/Afzw-Yn6OUd5-fds5kqaoxcB03Zc3KGiOGBudyn4imPU03elt4OGcWq3IsNb960LadK5kBD40SAwxw/","api_path":"/challenge/AXEeGnh1YSYaSc4_OKGoKSSoIa2T0GzL0Ug5MZDsGM_pkHMntbtZ0xOV-G2dggQAM4vM_2E/Afzw-Yn6OUd5-fds5kqaoxcB03Zc3KGiOGBudyn4imPU03elt4OGcWq3IsNb960LadK5kBD40SAwxw/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2023-02-13 05:56:21,341 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-02-13 05:56:21,341 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2023-02-13 05:56:21,341 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2023-02-13 05:56:24,688 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2023-02-13 05:56:24,689 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\Users\54225_5\Desktop\Bot_telegram\media\photo_85_1676278575.jpg' is not uploaded.
